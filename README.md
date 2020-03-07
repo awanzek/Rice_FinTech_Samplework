@@ -1,2 +1,5 @@
 # Rice_FinTech_Samplework
 Sample work and skills from in class activities.
+My name is Anna Wanzek. I attended the University of Notre Dame and earned a Bachelors in Civil Engineering. I then attened The University of Texas at Austin for my Masters of Structural Engineering. I enjoy problem solving, design, language, and mathematics. I currently live in Houston TX and work as an Engineer in Training designing custom residential homes. 
+My career goals at this point in time involve continuing to build my engineering and design skills and hopefully to earn my PE license in the next few years. I also want to learn coding and data analysis skills. Both for my own knowledge and for potential changes in career or remote work I can do along with my current work.
+FinTech is highly appealing to me as it is an emerging and growing industry. The combination of finance and technology compose many aspets of almost every company/industry today. For me FinTech appears to be an opporunity to apply my problems sovling, design, and analysis skills and use them with in FinTech field.
